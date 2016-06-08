@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:11.019650
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:55
 #+TITLE: 般若心經略疏
 #+PROPERTY: CBETA_ID X26n0528
 #+PROPERTY: ID KR6c0147
@@ -10,7 +10,7 @@
 #+PROPERTY: LASTPB <pb:KR6c0147_X_001-0733c> 
 #+PROPERTY: JUAN 1
 
-般若心經疏No.528¶
+* 般若心經疏No.528¶
 
  般若心經疏¶
 妙樂門人　明曠　述¶
@@ -201,7 +201,7 @@
 ¶
 心經疏(終)
 <pb:KR6c0147_X_001-0735c>
-No.528-A¶
+* No.528-A¶
 
 智者大師內證秘密外說顯教矣荊溪一行互相師¶
 資授受圓密焉于茲剡川入荊溪門出心經疏也照¶
